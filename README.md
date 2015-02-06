@@ -37,6 +37,18 @@ var result = sentiment('Cats are totally amazing!', {
 console.dir(result);    // Score: 7, Comparative: 1.75
 ```
 
+### Use a different language
+You can specify a two-letter language code to use a translated AFINN list:
+```javascript
+var sentiment = require('sentiment');
+
+var result = sentiment('Katzen sind total erstaunlich!', {
+    lang: 'de'
+});
+console.dir(result);    // Score: 3, Comparative: 0.75
+```
+Function will throw an error, if an unsupported language is specified.
+Supported languages: EN, DE
 ---
 
 ### Benchmarks
