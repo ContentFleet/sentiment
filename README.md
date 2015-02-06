@@ -47,8 +47,8 @@ var result = sentiment('Katzen sind total erstaunlich!', {
 });
 console.dir(result);    // Score: 3, Comparative: 0.75
 ```
-Function will throw an error, if an unsupported language is specified.
-Supported languages: EN, DE
+Function will throw an error, if an unsupported language is specified (supported languages: EN, DE).
+
 ---
 
 ### Benchmarks
