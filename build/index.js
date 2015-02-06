@@ -9,32 +9,40 @@
  * Dependencies
  */
 var async   = require('async'),
-    fs      = require('fs');
+    fs      = require('fs'),
+    path    = require('path');
 
-/**
- * Read AFINN data from original format
- */
-fs.readFile(__dirname + '/AFINN.txt', function (err, data) {
+
+var files = fs.readdirSync(__dirname);
+
+files.forEach(function(file) {
+  if(path.extname(file) !== ".txt") {
+    return;
+  }
+  /**
+   * Read AFINN data from original format
+   */
+  fs.readFile(__dirname + '/' + file, function (err, data) {
     // Storage object
     var hash = new Object(null);
 
     // Split lines
     var lines = data.toString().split(/\n/);
-    console.dir(lines);
     async.forEach(lines, function (obj, callback) {
-        var item = obj.split(/\t/);
-        hash[item[0]] = Number(item[1]);
-        callback();
+      var item = obj.split(/\t/);
+      hash[item[0]] = Number(item[1]);
+      callback();
     }, function (err) {
-        if (err) throw new Error(err);
+      if (err) throw new Error(err);
 
-        // Write out JSON
-        fs.writeFile(
-            __dirname + '/AFINN.json', 
-            JSON.stringify(hash), 
+      // Write out JSON
+      fs.writeFile(
+          __dirname + '/' + file.replace('txt', 'json'),
+        JSON.stringify(hash),
         function (err) {
-            if (err) throw new Error(err);
-            console.log('Complete.');
+          if (err) throw new Error(err);
+          console.log('Complete.');
         });
     });
+  });
 });
