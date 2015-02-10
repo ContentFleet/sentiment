@@ -2000,7 +2000,6 @@ wiederbelebt	2
 wiederhergestellt	1
 wiederherstellen	1
 wiederherstellend	1
-will	1
 willkommen	2
 win-win	3
 wirksam	2
