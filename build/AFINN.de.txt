@@ -717,7 +717,6 @@ gefeuert	-2
 gefoltert	-4
 gefordert	-1
 gefühl	1
-gegen	-1
 gegener	-2
 gegensätzlich	-2
 gegnerisch	-2
