@@ -38,7 +38,7 @@ files.forEach(function(file) {
       // Write out JSON
       fs.writeFile(
           __dirname + '/' + file.replace('txt', 'json'),
-        JSON.stringify(hash),
+        JSON.stringify(hash, null, 2),
         function (err) {
           if (err) throw new Error(err);
           console.log('Complete.');

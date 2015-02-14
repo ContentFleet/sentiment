@@ -588,7 +588,6 @@ fallen	-1
 falsch	-2
 fan	3
 fanatiker	-2
-fans	1
 fantastisch	4
 farce	-1
 faschist	-2
@@ -717,7 +716,7 @@ gefeuert	-2
 gefoltert	-4
 gefordert	-1
 gefühl	1
-gegener	-2
+gegner	-2
 gegensätzlich	-2
 gegnerisch	-2
 gehackt	-1
@@ -759,7 +758,6 @@ genötigt	1
 genugtuung	2
 geplagt	-2
 gequält	-3
-gerade	1
 gerechtfertigt	2
 gerechtkeit	2
 gerettet	2
@@ -967,7 +965,6 @@ irrsinnig	-2
 irrtum	-2
 irrtümlich	-2
 isoliert	-1
-ja	1
 jaaa	2
 jesus	1
 jovial	2
@@ -980,9 +977,6 @@ juuhuu	3
 juwel	1
 juwelen	1
 kaltschnäuzigkeit	-2
-kampf	-1
-kämpfe	-1
-kämpfen	-1
 kaputt	-1
 katastrophal	-4
 katastrophe	-3
@@ -1013,6 +1007,7 @@ konflikt	-2
 konflikte	-2
 konspirierend	-3
 kontrovers	-2
+krönt	3
 konzentriert	2
 krampf	-1
 krampfhaft	-3
@@ -1062,7 +1057,7 @@ lauernd	-1
 lauert	-1
 laune	2
 launisch	-1
-laut	-1
+schrill	-1	statt laut?
 lautstark	-1
 lawl	3
 leak	-1
@@ -1118,11 +1113,11 @@ lösungen	1
 loyal	3
 loyalität	3
 lügner	-3
-lustig	4
-lustiger	4
+lustig	4	4 zu hoch?
+lustiger	4	4 zu hoch?
 mächtig	2
 machtlos	-2
-mag	2
+mag	2	mag sein?
 mahnen	-2
 makellos	2
 malerisch	2
@@ -1197,7 +1192,7 @@ nein	-1
 nerven	-1
 nervös	-2
 nervt	-3
-nett	3
+nett	3	3?
 neuartig	2
 neugierig	1
 niedergeschlagen	-2
@@ -1323,7 +1318,7 @@ rotflmfao	4
 rotflol	4
 rücksichtslos	-2
 rückzug	-3
-ruhig	2
+ruhig	2	entspannt? 
 ruhm	1
 ruinieren	-2
 ruinierend	-2
@@ -1344,10 +1339,10 @@ schädigt	-3
 schädlich	-2
 schande	-2
 schatz	2
-schätze	2
-schätzen	2
+schätze	2	schätze nicht?
+schätzen	2	schätzen kann Probleme bereiten
 schätzend	2
-schätzt	2
+schätzt	2	Polizei schätzt die Zahl der Opfer auf 1000000?
 schäumend	-2
 scheinheilig	-2
 scheiße	-4
@@ -1402,7 +1397,7 @@ schwach	-2
 schwäche	-2
 schwächlich	-2
 schwachsinning	-3
-schwanz	-5
+schwanz	-5	passt nicht
 schwanzkopf	-4
 schwanzlutscher	-5
 schweigen	-1
@@ -1415,12 +1410,12 @@ schwindelig	-1
 schwindelnd	-3
 schwindelt	-3
 schwindler	-3
-schwindling	-2
+schwindling	-2	?
 schwuchtel	-3
 schwuchteln	-3
 schwungvoll	2
 segnen	2
-segnend	3
+gesegnet	3	statt segnend
 segnet	2
 sehnend	-1
 sehnlich	2
@@ -1511,7 +1506,7 @@ stört	-2
 stotternd	-2
 strafe	-2
 strafen	-3
-strafend	-3
+strafend	-3	be- ?
 straft	-3
 straftat	-3
 straftaten	-3
@@ -1654,7 +1649,6 @@ unehrlich	-2
 unentschlossen	-2
 unerbittlich	-1
 unerforscht	-2
-unerfülllt	-2
 unerfüllt	-2
 unerreicht	1
 unerschrocken	2
@@ -1728,7 +1722,7 @@ untersuchungen	1
 untröstlich	-3
 unüberzeugt	-1
 unumkehrbar	-1
-unverantwortlich	2
+unverantwortlich	2	2?
 unverdient	-2
 unvergleichlich	2
 unverwundbar	2
@@ -2000,7 +1994,6 @@ wiederbelebt	2
 wiederhergestellt	1
 wiederherstellen	1
 wiederherstellend	1
-willkommen	2
 win-win	3
 wirksam	2
 wissbegierig	2
@@ -2083,3 +2076,5 @@ zwiespalt	-2
 zyniker	-2
 zynisch	-2
 zynismus	-2
+verpasst	-1
+krawalle	-3
