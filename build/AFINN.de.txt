@@ -36,7 +36,6 @@ akzeptieren	1
 akzeptiert	1
 alarmiert	-2
 albern	-1
-allein	-2
 allergisch	-2
 ambitioniert	2
 amüsieren	3
@@ -166,6 +165,7 @@ bedrohungen	-2
 bedrückt	-2
 bedürftig	-2
 beeindrucken	3
+beeindruckt	3
 beeinflussen	-1
 beeinträchtigt	-1
 beerdigung	-1
@@ -185,9 +185,8 @@ begehrlich	2
 begehrt	2
 begeistern	3
 begeisternd	3
-begeistert	1
+begeistert	2
 begeisterte	2
-begesitert	3
 begnadigen	2
 begnadigt	2
 begnadigte	2
@@ -202,7 +201,6 @@ begünstigt	2
 behaupten	-1
 behauptend	-1
 behindert	-2
-beindruckt	3
 bejahend	2
 bejubelt	2
 bekämpfen	-1
@@ -238,7 +236,6 @@ berauben	-2
 beraubend	-2
 beraubt	-2
 berechtigt	1
-bereit	-2
 bereitschaft	2
 bereuen	-2
 bereuend	-2
@@ -385,7 +382,6 @@ doppeldeutig	-1
 draufgänger	2
 drecksack	-4
 dringend	-1
-druck	-1
 dumm	-3
 dummerweise	-2
 dunkelheit	-1
@@ -407,8 +403,6 @@ eifrig	2
 eindeutig	1
 eindringlich	1
 eindrucksvoll	3
-eine art	0
-einfach	1
 einflussreich	2
 eingeschränkt	-2
 eingeschüchtert	-2
@@ -438,7 +432,6 @@ empfindungslos	-1
 empfohlen	2
 empört	-2
 empörung	-2
-engagiert	1
 engpässe	-2
 ennui	-2
 entfremdung	-2
@@ -495,7 +488,6 @@ erfreute	3
 erfüllen	2
 erfüllend	2
 erfüllt	2
-erfunden	-1
 ergeben	3
 ergreifen	1
 erhellend	2
@@ -503,8 +495,6 @@ erhellt	2
 erhöht	1
 erholsam	2
 erlangen	2
-erlauben	1
-erlaubt	2
 erleichtern	1
 erleichternd	2
 erleichtert	2
@@ -552,9 +542,6 @@ ertrinken	-2
 ertrinkt	-2
 ertrunken	-2
 erwachsen	2
-erwarten	-1
-erwartet	-1
-erwartete	-1
 erwartung	1
 erwartungen	1
 erweitern	1
@@ -626,12 +613,11 @@ festgenommen	-3
 festlich	2
 festnehmen	-2
 festsitzen	-2
-feuer	-2
 feuern	-2
+feuert	-2
 fiasko	-3
 fieberhaft	-1
 fies	-3
-fit	1
 fitness	1
 flaggschiff	2
 fliehen	-1
@@ -716,8 +702,8 @@ gefeuert	-2
 gefoltert	-4
 gefordert	-1
 gefühl	1
-gegner	-2
 gegensätzlich	-2
+gegner	-2
 gegnerisch	-2
 gehackt	-1
 gehässig	-2
@@ -775,6 +761,7 @@ geschmäht	-2
 geschockt	-2
 geschrieen	-2
 geschrien	-2
+gesegnet	3
 gesellig	2
 gesichert	1
 gesohlen	-2
@@ -793,7 +780,6 @@ getarnt	-1
 getäuscht	-3
 geteilt	1
 getötet	-3
-getroffen	-1
 getrübt	-1
 gewagt	2
 gewähren	1
@@ -825,11 +811,9 @@ glückseelig	3
 glücksfall	4
 glühend	2
 gnade	2
-gott	1
 gratulation	2
 gratulationen	2
 gratulieren	2
-grau	-1
 grauenhaft	-3
 grausam	-3
 grausamkeit	-3
@@ -857,7 +841,6 @@ haha	3
 hahaha	3
 hahahah	3
 halbherzig	-2
-hart	-2
 hartnäckig	-2
 hass	-3
 hassend	-3
@@ -924,6 +907,7 @@ hurra	5
 hysterie	-3
 hysterisch	-3
 idiot	-3
+idioten	-3
 ignorant	-2
 ignoranz	-2
 ignorieren	-1
@@ -1007,7 +991,6 @@ konflikt	-2
 konflikte	-2
 konspirierend	-3
 kontrovers	-2
-krönt	3
 konzentriert	2
 krampf	-1
 krampfhaft	-3
@@ -1019,6 +1002,7 @@ krankheiten	-2
 kränkt	-2
 krass	-3
 kratzig	-2
+krawalle	-3
 kreativ	2
 krebs	-1
 krieg	-2
@@ -1031,6 +1015,7 @@ kritisieren	-2
 kritisierend	-2
 kritisiert	-2
 kritisierte	-2
+krönt	3
 kudos	3
 kühner	2
 kürzen	-1
@@ -1057,7 +1042,6 @@ lauernd	-1
 lauert	-1
 laune	2
 launisch	-1
-schrill	-1	statt laut?
 lautstark	-1
 lawl	3
 leak	-1
@@ -1065,7 +1049,6 @@ lebend	1
 lebensretter	4
 lebhaft	2
 lecker	3
-leer	-1
 leere	-1
 legal	1
 leiche	-1
@@ -1113,11 +1096,10 @@ lösungen	1
 loyal	3
 loyalität	3
 lügner	-3
-lustig	4	4 zu hoch?
-lustiger	4	4 zu hoch?
+lustig	2
+lustiger	2
 mächtig	2
 machtlos	-2
-mag	2	mag sein?
 mahnen	-2
 makellos	2
 malerisch	2
@@ -1130,7 +1112,6 @@ manipuliert	-1
 massenpanik	-2
 meckerpott	-3
 meckerpötte	-3
-medaille	3
 meineid	-3
 meisterwerk	4
 meisterwerke	4
@@ -1182,17 +1163,15 @@ nachsichtig	1
 nachteil	-2
 naiv	-2
 naivität	-2
-narren	-2
 natürlich	1
 negativ	-2
 negativität	-2
 neid	-1
 neidisch	-2
 nein	-1
-nerven	-1
 nervös	-2
 nervt	-3
-nett	3	3?
+nett	3
 neuartig	2
 neugierig	1
 niedergeschlagen	-2
@@ -1329,7 +1308,6 @@ sabotage	-2
 sackgasse	-2
 sarkastisch	-2
 satthaben	-3
-sauber	2
 sauberer	2
 sauer	-1
 schaden	-3
@@ -1378,7 +1356,6 @@ schmutz	-2
 schmutzig	-2
 schmutziger	-2
 schmutzigste	-2
-schnell	2
 schock	-2
 schocken	-2
 schockierend	-2
@@ -1389,6 +1366,7 @@ schreckschraube	-4
 schreien	-2
 schreiend	-2
 schreit	-2
+schrill	-1
 schüchtern	-1
 schuld	-3
 schulden	-2
@@ -1397,7 +1375,6 @@ schwach	-2
 schwäche	-2
 schwächlich	-2
 schwachsinning	-3
-schwanz	-5	passt nicht
 schwanzkopf	-4
 schwanzlutscher	-5
 schweigen	-1
@@ -1415,7 +1392,6 @@ schwuchtel	-3
 schwuchteln	-3
 schwungvoll	2
 segnen	2
-gesegnet	3	statt segnend
 segnet	2
 sehnend	-1
 sehnlich	2
@@ -1429,6 +1405,11 @@ selbsttäuschung	-2
 selbstzufrieden	-2
 seltsam	-2
 seltsamerweise	-1
+sensation	3
+sensationell	3
+sensationelle	3
+sensationeller	3
+sensationelles	3
 seufzen	-2
 seufzend	-2
 seufzt	-2
@@ -1462,7 +1443,6 @@ sorge	-2
 sorgen	2
 sorglos	1
 sorgsam	2
-sorgt	2
 sozialarbeit	2
 spam	-2
 spammen	-2
@@ -1506,7 +1486,7 @@ stört	-2
 stotternd	-2
 strafe	-2
 strafen	-3
-strafend	-3	be- ?
+strafend	-3
 straft	-3
 straftat	-3
 straftaten	-3
@@ -1556,13 +1536,11 @@ terrorisieren	-3
 terrorisiert	-3
 terrorisierte	-3
 teuer	-2
-titten	-2
 tod	-2
 todesfall	-3
 todesfälle	-3
 todgeweiht	-2
 tolerant	2
-top	2
 tot	-3
 totalitär	-2
 totalitarismus	-2
@@ -1686,6 +1664,10 @@ unkonzentriert	-2
 unmotiviert	-2
 unordnung	-2
 unorganisiert	-2
+unpopulär	-1
+unpopuläre	-1
+unpopulärer	-1
+unpopuläres	-1
 unprofessionell	-2
 unsensibel	-2
 unsicher	-2
@@ -1763,6 +1745,7 @@ verblüffen	3
 verblüffend	4
 verblüfft	3
 verboten	-2
+verbrannt	-2
 verbrechen	-3
 verbrecher	-3
 verdächtig	-2
@@ -1843,6 +1826,7 @@ vernachlässigt	-2
 vernachlässigte	-2
 vernarrt	2
 vernarrtheit	2
+verpasst	-2
 verpflichten	1
 verpflichtend	1
 verpflichtet	1
@@ -1998,7 +1982,6 @@ win-win	3
 wirksam	2
 wissbegierig	2
 witz	2
-witze	2
 witzig	3
 wohlhabend	2
 woow	4
@@ -2069,12 +2052,11 @@ zwangsräumung	-1
 zwangsvollstreckung	-2
 zwangsvollstreckungen	-2
 zweifelhaft	-2
-zweifeln	-1
-zweifelnd	-1
-zweifelt	-1
+zweifeln	-2
+zweifelnd	-2
+zweifelt	-2
 zwiespalt	-2
 zyniker	-2
 zynisch	-2
 zynismus	-2
-verpasst	-1
-krawalle	-3
+verabscheuungswürdig	-4	
