@@ -31,3 +31,4 @@ suspended	-2
 triumphs	5
 crowns	4
 disappointed	-3
+leads	1

@@ -82,6 +82,7 @@ arbeitsniederlegung	-2
 arbeitsniederlegungen	-2
 ärger	-2
 ärgerlich	-2
+ärgerliche	-2
 ärgern	-2
 ärgert	-2
 arm	-2
@@ -165,6 +166,9 @@ bedrohungen	-2
 bedrückt	-2
 bedürftig	-2
 beeindrucken	3
+beeindruckend	3
+beeindruckende	3
+beeindruckender	3
 beeindruckt	3
 beeinflussen	-1
 beeinträchtigt	-1
@@ -277,10 +281,6 @@ besitzergreifend	-2
 besoffen	-4
 besorgt	-2
 besser	2
-bestätigen	1
-bestätigend	1
-bestätigt	1
-bestätigte	1
 beste	3
 bestechen	-3
 bestimmt	1
@@ -319,7 +319,6 @@ bewilligt	1
 bewundern	3
 bewundernd	3
 bewundert	3
-bezahlen	-1
 bezaubern	3
 bezaubernd	3
 bezaubert	2
@@ -345,8 +344,6 @@ boykottiert	-2
 bruch	-1
 brüskiert	-2
 bullshit	-4
-chance	2
-chancen	2
 chaos	-2
 chaotisch	-2
 chic	2
@@ -424,11 +421,10 @@ eleganz	1
 elend	-2
 elendig	-3
 empathisch	2
-empfangen	2
-empfängt	2
 empfehlen	2
 empfiehlt	2
 empfindungslos	-1
+eklat	-3
 empfohlen	2
 empört	-2
 empörung	-2
@@ -441,10 +437,6 @@ entführungen	-2
 entgleisen	-2
 entgleist	-2
 entgleiste	-2
-enthüllen	-1
-enthüllend	-1
-enthüllt	-1
-enthüllte	-1
 enthusiastisch	3
 entlasten	2
 entlastend	2
@@ -609,7 +601,6 @@ feinde	-2
 feindlich	-2
 feindlichkeit	-2
 fesselte	3
-festgenommen	-3
 festlich	2
 festnehmen	-2
 festsitzen	-2
@@ -619,7 +610,6 @@ fiasko	-3
 fieberhaft	-1
 fies	-3
 fitness	1
-flaggschiff	2
 fliehen	-1
 fliehend	-1
 flieht	-1
@@ -701,7 +691,6 @@ gefeiert	3
 gefeuert	-2
 gefoltert	-4
 gefordert	-1
-gefühl	1
 gegensätzlich	-2
 gegner	-2
 gegnerisch	-2
@@ -897,7 +886,6 @@ hooligan	-2
 hübsch	1
 humor	2
 humorvoll	2
-hunger	-2
 hungern	-2
 hungernd	-2
 hungert	-2
@@ -950,7 +938,6 @@ irrtum	-2
 irrtümlich	-2
 isoliert	-1
 jaaa	2
-jesus	1
 jovial	2
 jubeln	2
 jubelnd	2
@@ -1052,11 +1039,13 @@ lecker	3
 leere	-1
 legal	1
 leiche	-1
+kreditbombe	-2
 leichtfertig	-2
 leichtgläubig	-2
 leichtgläubigkeit	-2
 leichtigkeit	2
 leichtsinnig	-2
+angeschlagen	-2
 leid	-3
 leiden	-2
 leidend	-2
@@ -1087,10 +1076,8 @@ lobte	2
 lohnend	2
 lol	3
 looser	-3
-lösen	1
 lösend	1
 loser	-3
-löst	1
 lösung	1
 lösungen	1
 loyal	3
@@ -1138,7 +1125,6 @@ mittelmässigkeit	-3
 mobben	-2
 mobbing	-2
 modeerscheinung	-2
-mögen	2
 mord	-3
 morde	-3
 mordend	-3
@@ -1207,7 +1193,8 @@ panikmache	-2
 panikmacher	-2
 panisch	-3
 panische	-3
-paradies	3
+paradies	2
+entfesselt	3
 paradox	-1
 passiv	-1
 peinlich	-2
@@ -1215,6 +1202,7 @@ penetrant	-1
 penner	-3
 perfekt	3
 perfektioniert	2
+drogeneinfluss	-3
 perfektionierte	2
 perspektivlos	-2
 pessimismus	-2
@@ -1255,6 +1243,7 @@ rage	-3
 rasend	-3
 rassismus	-3
 rassist	-3
+rassistisch	-3
 rassisten	-3
 rastlos	-2
 ratifiziert	2
@@ -1285,6 +1274,10 @@ reue	-2
 rezession	-2
 richtige richtung	3
 riesig	1
+erfolgsgarant	3
+erfolgsgaranten	3
+sorgenkind	-3
+sorgenkinder	-3
 rigoros	3
 risiken	-2
 risiko	-2
@@ -1297,7 +1290,7 @@ rotflmfao	4
 rotflol	4
 rücksichtslos	-2
 rückzug	-3
-ruhig	2	entspannt? 
+ruhig	2
 ruhm	1
 ruinieren	-2
 ruinierend	-2
@@ -1317,10 +1310,6 @@ schädigt	-3
 schädlich	-2
 schande	-2
 schatz	2
-schätze	2	schätze nicht?
-schätzen	2	schätzen kann Probleme bereiten
-schätzend	2
-schätzt	2	Polizei schätzt die Zahl der Opfer auf 1000000?
 schäumend	-2
 scheinheilig	-2
 scheiße	-4
@@ -1345,7 +1334,6 @@ schlechter	-3
 schlechteste	-3
 schleppen	-1
 schleppt	-1
-schlicht	-2
 schlimm	-3
 schmerz	-2
 schmerzen	-2
@@ -1387,7 +1375,7 @@ schwindelig	-1
 schwindelnd	-3
 schwindelt	-3
 schwindler	-3
-schwindling	-2	?
+schwindling	-2
 schwuchtel	-3
 schwuchteln	-3
 schwungvoll	2
@@ -1439,8 +1427,6 @@ smog	-2
 solidarität	2
 solide	2
 sonnenschein	2
-sorge	-2
-sorgen	2
 sorglos	1
 sorgsam	2
 sozialarbeit	2
@@ -1461,6 +1447,10 @@ spöttisch	-2
 stabil	2
 standfest	2
 stark	2
+starke	2
+starker	2
+starken	2
+starkem	2
 stärke	2
 stärken	2
 stärkend	2
@@ -1514,7 +1504,6 @@ sündenbock	-2
 sündenböcke	-2
 sündig	-3
 super	3
-superb	5
 süß	2
 tadelnd	-2
 tapfer	3
@@ -1539,6 +1528,7 @@ teuer	-2
 tod	-2
 todesfall	-3
 todesfälle	-3
+Todesopfer	-4
 todgeweiht	-2
 tolerant	2
 tot	-3
@@ -1704,7 +1694,7 @@ untersuchungen	1
 untröstlich	-3
 unüberzeugt	-1
 unumkehrbar	-1
-unverantwortlich	2	2?
+unverantwortlich	2
 unverdient	-2
 unvergleichlich	2
 unverwundbar	2
@@ -1726,6 +1716,7 @@ verabscheuen	-3
 verabscheuend	-3
 verabscheut	-3
 verabscheute	-3
+verabscheuungswürdig	-4
 verachtend	-2
 verachtung	-2
 veraltet	-2
@@ -1771,8 +1762,6 @@ vereitelte	-2
 verfälschen	-3
 verfälscht	-3
 verflucht	-3
-verfolgen	-1
-verfolgt	-2
 verführt	-1
 vergeben	1
 vergebend	1
@@ -2059,4 +2048,27 @@ zwiespalt	-2
 zyniker	-2
 zynisch	-2
 zynismus	-2
-verabscheuungswürdig	-4	
+tote	-5
+toten	-5
+toter	-5
+totschlag	4
+mord	-4
+gefährden	-2
+gefährdet	-2
+gefährdung	-2
+gefährdungen	-2
+gefährdent	-2
+eklat	-3
+mangelware	-1
+mordversuch	-4
+mordversuchs	-4
+korruption	-3
+untreue	-3
+unpünktlich	-1
+comeback	1
+verkommen	-1
+glückt	2
+glückte	2
+geglückt	2
+geschmacklos	-2
+profitiert	2

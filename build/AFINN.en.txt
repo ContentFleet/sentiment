@@ -131,7 +131,6 @@ annoyed	-2
 annoying	-2
 annoys	-2
 antagonistic	-2
-anti	-1
 anticipation	1
 anxiety	-2
 anxious	-2
@@ -222,7 +221,6 @@ backed	1
 backing	2
 backs	1
 bad	-3
-badass	-3
 badly	-3
 bailout	-2
 bamboozle	-2
@@ -266,7 +264,6 @@ betrays	-3
 better	2
 bias	-1
 biased	-2
-big	1
 bitch	-5
 bitches	-5
 bitter	-2
@@ -312,6 +309,7 @@ boycotting	-2
 boycotts	-2
 brainwashing	-3
 brave	2
+bravery	2
 breakthrough	3
 breathtaking	5
 bribe	-3
@@ -372,7 +370,6 @@ chances	2
 chaos	-2
 chaotic	-2
 charged	-3
-charges	-2
 charm	3
 charming	3
 charmless	-3
@@ -382,6 +379,7 @@ chastises	-3
 chastising	-3
 cheat	-3
 cheated	-3
+cheating	-3
 cheater	-3
 cheaters	-3
 cheats	-3
@@ -487,7 +485,6 @@ contempt	-2
 contemptuous	-2
 contemptuously	-2
 contend	-1
-contender	-1
 contending	-1
 contentious	-2
 contestable	-2
@@ -523,6 +520,7 @@ cries	-2
 crime	-3
 criminal	-3
 criminals	-3
+cripples	-2
 crisis	-3
 critic	-2
 criticism	-2
@@ -553,6 +551,7 @@ damage	-3
 damages	-3
 damn	-4
 damned	-4
+damning	-3
 damnit	-4
 danger	-2
 daredevil	2
@@ -580,8 +579,6 @@ dedicated	2
 defeated	-2
 defect	-3
 defects	-3
-defender	2
-defenders	2
 defenseless	-2
 defer	-1
 deferring	-1
@@ -658,6 +655,7 @@ dick	-4
 dickhead	-4
 die	-3
 died	-3
+dies	-3
 difficult	-1
 diffident	-2
 dilemma	-1
@@ -792,6 +790,7 @@ drowned	-2
 drowns	-2
 drunk	-2
 dubious	-2
+nightmare	-1
 dud	-2
 dull	-2
 dumb	-3
@@ -986,7 +985,6 @@ fervid	2
 festive	2
 fiasco	-3
 fidgety	-2
-fight	-1
 fine	2
 fire	-2
 fired	-2
@@ -1021,7 +1019,6 @@ fraudster	-4
 fraudsters	-4
 fraudulence	-4
 fraudulent	-4
-free	1
 freedom	2
 frenzy	-3
 fresh	1
@@ -1066,7 +1063,6 @@ gagged	-2
 gain	2
 gained	2
 gaining	2
-gains	2
 gallant	3
 gallantly	3
 gallantry	3
@@ -1092,7 +1088,6 @@ good	3
 goodness	3
 grace	1
 gracious	3
-grand	3
 grant	1
 granted	1
 granting	1
@@ -1100,7 +1095,6 @@ grants	1
 grateful	3
 gratification	2
 grave	-2
-gray	-1
 great	3
 greater	3
 greatest	3
@@ -1140,7 +1134,6 @@ hapless	-2
 haplessness	-2
 happiness	3
 happy	3
-hard	-1
 hardier	2
 hardship	-2
 hardy	2
@@ -1171,7 +1164,6 @@ heaven	2
 heavenly	4
 heavyhearted	-2
 hell	-4
-help	2
 helpful	2
 helping	2
 helpless	-2
@@ -1214,7 +1206,6 @@ horrified	-3
 hostile	-2
 huckster	-2
 hug	2
-huge	1
 hugs	2
 humerous	3
 humiliated	-3
@@ -1234,6 +1225,7 @@ hysterical	-3
 hysterics	-3
 idiot	-3
 idiotic	-3
+idiots	-3
 ignorance	-2
 ignorant	-2
 ignore	-1
@@ -1375,7 +1367,6 @@ jaunty	2
 jealous	-2
 jeopardy	-2
 jerk	-3
-jesus	1
 jewel	1
 jewels	1
 jocular	2
@@ -1416,7 +1407,6 @@ laughed	1
 laughing	1
 laughs	1
 laughting	1
-launched	1
 lawl	3
 lawsuit	-2
 lawsuits	-2
@@ -1435,11 +1425,9 @@ libelous	-2
 lied	-2
 lifesaver	4
 lighthearted	1
-like	2
 liked	2
 likes	2
 limitation	-1
-limited	-1
 limits	-1
 litigation	-1
 litigious	-2
@@ -1602,7 +1590,8 @@ nice	3
 nifty	2
 niggas	-5
 nigger	-5
-no	-1
+nightmare	-3
+nightmares	-3
 no fun	-3
 noble	2
 noisy	-1
@@ -1681,7 +1670,6 @@ passionate	2
 passive	-1
 passively	-1
 pathetic	-2
-pay	-1
 peace	2
 peaceful	2
 peacefully	2
@@ -1760,10 +1748,10 @@ pretend	-1
 pretending	-1
 pretends	-1
 pretty	1
-prevent	-1
-prevented	-1
-preventing	-1
-prevents	-1
+prevent	1
+prevented	1
+preventing	1
+prevents	1
 prick	-5
 prison	-2
 prisoner	-2
@@ -1819,12 +1807,14 @@ racist	-3
 racists	-3
 rage	-2
 rageful	-2
+rages	-2
 rainy	-1
 rant	-3
 ranter	-3
 ranters	-3
 rants	-3
 rape	-4
+raped	-4
 rapist	-4
 rapture	2
 raptured	2
@@ -1955,6 +1945,7 @@ salient	1
 sappy	-1
 sarcastic	-2
 satisfied	2
+satisfying	2
 save	2
 saved	2
 scam	-2
@@ -2045,6 +2036,7 @@ slick	2
 slicker	2
 slickest	2
 sluggish	-2
+slur	-3
 slut	-5
 smart	1
 smarter	2
@@ -2123,7 +2115,6 @@ stimulates	1
 stimulating	2
 stingy	-2
 stolen	-2
-stop	-1
 stopped	-1
 stopping	-1
 stops	-1
@@ -2177,7 +2168,6 @@ sulky	-2
 sullen	-2
 sunshine	2
 super	3
-superb	5
 superior	2
 support	2
 supported	2
@@ -2190,6 +2180,7 @@ survived	2
 surviving	2
 survivor	2
 suspect	-1
+carjacking	-2
 suspected	-1
 suspecting	-1
 suspects	-1
@@ -2217,6 +2208,7 @@ terribly	-3
 terrific	4
 terrified	-3
 terror	-3
+terrorism	-3
 terrorize	-3
 terrorized	-3
 terrorizes	-3
@@ -2243,7 +2235,6 @@ tired	-2
 tits	-2
 tolerant	2
 toothless	-2
-top	2
 tops	2
 torn	-2
 torture	-4
@@ -2277,7 +2268,7 @@ triumphant	4
 trouble	-2
 troubled	-2
 troubles	-2
-true	2
+TRUE	2
 trust	1
 trusted	2
 tumor	-2
@@ -2321,7 +2312,6 @@ unhealthy	-2
 unified	1
 unimpressed	-2
 unintelligent	-2
-united	1
 unjust	-2
 unlovable	-2
 unloved	-2
@@ -2457,6 +2447,7 @@ worst	-3
 worth	2
 worthless	-2
 worthy	2
+wounded	-2
 wow	4
 wowow	4
 wowww	4
@@ -2475,3 +2466,10 @@ yummy	3
 zealot	-2
 zealots	-2
 zealous	2
+genius	3
+hails	3
+falls	-1
+shines	2
+barbaric	-4
+fined	-2
+daunting	-1
