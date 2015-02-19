@@ -94,5 +94,13 @@
   "zahlungsunfähig": -3,
   "zufriedenen": 3,
   "zufriedenheit": 3,
-  "zwangpause": -2
+  "zwangpause": -2,
+  "rammt": -1,
+  "autounfall": -2,
+  "stilllegung": -3,
+  "stilllegen": -3,
+  "weltpremiere": 1,
+  "bestes": 3,
+  "bester": 3,
+  "besten": 3
 }
